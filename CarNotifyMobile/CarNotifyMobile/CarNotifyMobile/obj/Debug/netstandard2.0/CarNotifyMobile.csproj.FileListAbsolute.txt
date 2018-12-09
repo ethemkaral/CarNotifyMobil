@@ -1,0 +1,17 @@
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\bin\Debug\netstandard2.0\CarNotifyMobile.deps.json
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\bin\Debug\netstandard2.0\CarNotifyMobile.dll
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\bin\Debug\netstandard2.0\CarNotifyMobile.pdb
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\obj\Debug\netstandard2.0\CarNotifyMobile.csprojAssemblyReference.cache
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\obj\Debug\netstandard2.0\CarNotifyMobile.csproj.CoreCompileInputs.cache
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\obj\Debug\netstandard2.0\CarNotifyMobile.AssemblyInfoInputs.cache
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\obj\Debug\netstandard2.0\CarNotifyMobile.AssemblyInfo.cs
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\obj\Debug\netstandard2.0\CarNotifyMobile.dll
+C:\GitHub\CarNotifyMobil\CarNotifyMobile\CarNotifyMobile\CarNotifyMobile\obj\Debug\netstandard2.0\CarNotifyMobile.pdb
